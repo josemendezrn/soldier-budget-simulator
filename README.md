@@ -23,3 +23,9 @@ Cada registro es procesado y empaquetado bajo la siguiente estructura de datos r
     "tipo": "Francotirador",
     "costo": 45
 }
+
+## 🚀 Cómo Ejecutar el Simulado
+1. Clona este repositorio o descarga el código fuente.
+2. Ejecuta el archivo desde tu terminal:
+``` bash
+    pytohn soldados.py
